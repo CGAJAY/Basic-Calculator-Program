@@ -1,9 +1,0 @@
-- [x] User can input the first number
-- [x] User can input the second number
-- [x] User can input a mathematical operation (addition, subtraction, multiplication, or division)
-- [x] Program performs the operation based on user input
-- [x] For addition (+), it adds the two numbers
-- [x] For subtraction (-), it subtracts the second number from the first
-- [x] For multiplication (*), it multiplies the two numbers
-- [x] For division (/), it divides the first number by the second (with error handling for division by zero)
-- [x]  Program displays the result in a clear format
